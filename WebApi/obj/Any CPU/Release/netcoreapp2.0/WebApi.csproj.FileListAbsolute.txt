@@ -1,0 +1,12 @@
+D:\RND\Angular7WebApiCrud\WebApi\bin\Any CPU\Release\netcoreapp2.0\WebApi.deps.json
+D:\RND\Angular7WebApiCrud\WebApi\bin\Any CPU\Release\netcoreapp2.0\WebApi.runtimeconfig.json
+D:\RND\Angular7WebApiCrud\WebApi\bin\Any CPU\Release\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+D:\RND\Angular7WebApiCrud\WebApi\bin\Any CPU\Release\netcoreapp2.0\WebApi.dll
+D:\RND\Angular7WebApiCrud\WebApi\bin\Any CPU\Release\netcoreapp2.0\WebApi.pdb
+D:\RND\Angular7WebApiCrud\WebApi\bin\Any CPU\Release\netcoreapp2.0\WebBl.dll
+D:\RND\Angular7WebApiCrud\WebApi\bin\Any CPU\Release\netcoreapp2.0\WebBl.pdb
+D:\RND\Angular7WebApiCrud\WebApi\obj\Any CPU\Release\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+D:\RND\Angular7WebApiCrud\WebApi\obj\Any CPU\Release\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+D:\RND\Angular7WebApiCrud\WebApi\obj\Any CPU\Release\netcoreapp2.0\WebApi.AssemblyInfo.cs
+D:\RND\Angular7WebApiCrud\WebApi\obj\Any CPU\Release\netcoreapp2.0\WebApi.dll
+D:\RND\Angular7WebApiCrud\WebApi\obj\Any CPU\Release\netcoreapp2.0\WebApi.pdb
